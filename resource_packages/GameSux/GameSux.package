@@ -1,0 +1,11 @@
+mod = [
+	"GameSux"
+]
+
+package = [
+	"resource_packages/GameSux/GameSux"
+]
+
+lua = [
+	"scripts/mods/GameSux/*"
+]
